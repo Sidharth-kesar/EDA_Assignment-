@@ -52,7 +52,7 @@ The notebook covers standard EDA practices and generates several key insights:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/Sidharth-kesar/EDA_Assignment-]
     ```
 2.  **Ensure you have the required files:**
     * `eda-aiml-class.ipynb`
